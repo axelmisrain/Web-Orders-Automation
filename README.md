@@ -1,4 +1,5 @@
-# Web-Orders Automation
+# Web-Orders Automation: Cucumber, Java, JUnit, Apache, Selenium WebDriver
+
 ## Cucumber HTML report
 ![image](https://github.com/user-attachments/assets/8de1f5d6-eb05-4b8a-9690-94a806d876ed)
 
