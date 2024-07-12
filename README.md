@@ -1,4 +1,4 @@
-# Web-Orders Automation: Cucumber, Java, JUnit, Apache, Selenium WebDriver
+# Web-Orders Automation: Cucumber, Java, JUnit, Selenium WebDriver
 ## Screen of Test Running 
 https://github.com/user-attachments/assets/3a57a3d7-f020-4687-bc6a-5db1ff325d87
 ## Cucumber HTML report
@@ -24,5 +24,8 @@ The automation testing process will follow the below steps:
 - Execute the automation scripts.
 - Analyze the test results.
 - Report and track defects, if any.
+
+## Conclusion
+The project is designed to evaluate various product types available on the website and the different payment options offered. We are demonstrating the ease of executing the same scenario multiple times using the Scenario Outline feature in Cucumber.
 
 
