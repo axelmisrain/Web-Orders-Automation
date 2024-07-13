@@ -1,4 +1,4 @@
-# Web-Orders Automation: Cucumber, Java, JUnit, Selenium WebDriver
+# Web-Orders Automation: Cucumber, Java, Gherkin, JUnit, Selenium WebDriver
 ## Screen of Test Running 
 https://github.com/user-attachments/assets/3a57a3d7-f020-4687-bc6a-5db1ff325d87
 ## Cucumber HTML report
